@@ -5,8 +5,8 @@ __pycache__/
 
 # Ignore virtual environment folders
 env/
-venv/
-.venv/
+myenv/
+.myenv/
 zeno_lab/
 
 # Ignore Jupyter notebook checkpoints
